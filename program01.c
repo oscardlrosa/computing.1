@@ -4,7 +4,7 @@
  *
  * Purpose: This program display the 'Oneness' property for two numbers in seven column in the format
  *          'x:y', where 'x' is the initial number and 'y' is the number of step that took from x->1
- * Time spent: 2-3hrs.
+ *
  */
 
 #include <stdio.h>
