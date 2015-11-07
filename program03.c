@@ -6,7 +6,6 @@
  *     Purpose: This program will convert length and weight from Metric system to the US system according to the user choices
  */
 
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -18,7 +17,6 @@
 #define POUNDS_IN_A_KG 2.2046
 #define GRAMS_IN_A_KG 1000
 #define OUNCES_IN_A_LB 16
-
 
 // Function declarations
 void convert_lengths();
