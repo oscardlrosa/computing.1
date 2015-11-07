@@ -4,7 +4,7 @@
  *  Created on: Oct 4, 2015
  *      Author: Oscar De La Rosa
  *      Purpose: Calculate the total green crud (in pounds) according to the input data (# of days)
- *      Time spend: 3-4hrs.
+ *
  */
 
 
